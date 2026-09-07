@@ -71,3 +71,9 @@
 <a href="https://x.com/kookie_706"><img src="https://img.shields.io/badge/X-070707?style=for-the-badge&logo=x&logoColor=A0C5EF"/></a>
 <a href="mailto:aniopt06@gmail.com"><img src="https://img.shields.io/badge/Email-326794?style=for-the-badge&logo=gmail&logoColor=BDCFEB"/></a>
 </p>
+
+<hr>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aniCtrl&style=for-the-badge&color=1C1C1C"/>
+</p>   

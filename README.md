@@ -72,7 +72,7 @@
 <a href="mailto:aniopt06@gmail.com"><img src="https://img.shields.io/badge/Email-326794?style=for-the-badge&logo=gmail&logoColor=BDCFEB"/></a>
 </p>
 
-<hr>
+<h2>&nbsp;</h2>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aniCtrl&style=for-the-badge&color=1C1C1C"/>

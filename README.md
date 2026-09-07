@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hey there, I'm <span style="color:#326794;">Anii</span>
+  Hey it's me <span style="color:#326794;">Anii</span>
 </h1>
 
 <p align="center">
